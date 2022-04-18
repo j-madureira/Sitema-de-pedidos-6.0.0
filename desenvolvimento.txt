@@ -1,0 +1,30 @@
+Sistema de Pedidos 6.0
+
+INÍCIO
+-Dar boas vindas ao cliente, e pedir para que ele informe o nome
+-Receber o nome
+-Informar para o cliente fazer cadastro
+
+CADASTRO
+-Criar o nome de usuário do cliente
+-Criar a senha
+-Informar para o cliente que o cadastro foi concluído
+
+LOGIN
+-Receber o nome de usuário do cliente
+-Receber a senha
+-Informar para o cliente que ele está conectado ao sistema
+-Informar para o sistema que o cliente está logado no sistema
+
+AO LOGAR
+
+Informar um cardápio com opções de laches, bebidas e sobremesas
+-Receber o lanche
+-Receber a bebida
+-Receber a sobremesa
+
+LOCALIZAÇÃO PARA A ENTREGA
+-Receber a cidade onde o cliente mora
+-Receber o bairro onde o cliente mora
+-Receber a rua onde o cliente mora
+-Informar para o sistema o pedido e a localização para a entrega do pedido
